@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel
+- Gabriel
 
 <div align="center">
   <a href="https://github.com/gabrieldiase4">
